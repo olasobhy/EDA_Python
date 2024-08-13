@@ -17,7 +17,7 @@ Build predictive models to assist in the diagnosis of breast cancer.
 Evaluate the performance of different machine learning algorithms.
 <br>
 <br>
-*Usage*
+**Usage**
 <br>
 <br>
 *Data Preprocessing*
@@ -25,7 +25,7 @@ Evaluate the performance of different machine learning algorithms.
 The data preprocessing step includes handling missing values, encoding categorical variables, and scaling features.
 <br>
 <br>
-**Model Training**
+*Model Training*
 <br>
 <br>
 Various machine learning models are trained on the dataset, including:
