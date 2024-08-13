@@ -16,12 +16,14 @@ Analyze the dataset to identify key factors associated with breast cancer.
 Build predictive models to assist in the diagnosis of breast cancer.
 Evaluate the performance of different machine learning algorithms.
 <br>
+<br>
 **Usage**
 <br>
 <br>
 *Data Preprocessing*
 <br>
 The data preprocessing step includes handling missing values, encoding categorical variables, and scaling features.
+<br>
 <br>
 **Model Training**
 <br>
