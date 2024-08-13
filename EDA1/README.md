@@ -20,19 +20,18 @@ Evaluate the performance of different machine learning algorithms.
 **Usage**
 <br>
 <br>
-*Data Preprocessing*
+-*Data Preprocessing*
 <br>
 The data preprocessing step includes handling missing values, encoding categorical variables, and scaling features.
 <br>
 <br>
-*Model Training*
-<br>
+-*Model Training*
 <br>
 Various machine learning models are trained on the dataset, including:
 Logistic Regression,
 Support Vector Machines (SVM)
 <br>
 <br>
-**Evaluation**
+-*Evaluation*
 <br>
 Models are evaluated using metrics such as accuracy, precision, recall.
