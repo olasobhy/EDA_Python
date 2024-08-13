@@ -5,7 +5,7 @@ This project focuses on the analysis and prediction of breast cancer using machi
 <br>
 ***Source:*** 
 <br>
- Kaggle, <a/https://www.kaggle.com/datasets/saurabhbadole/breast-cancer-wisconsin-state/code>
+https://www.kaggle.com/datasets/saurabhbadole/breast-cancer-wisconsin-state/code>
 <br>
 <br>
 **Objective***
