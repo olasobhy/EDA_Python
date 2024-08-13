@@ -29,10 +29,10 @@ The data preprocessing step includes handling missing values, encoding categoric
 <br>
 <br>
 Various machine learning models are trained on the dataset, including:
-Logistic Regression
-Decision Trees
-Random Forests
+Logistic Regression,
 Support Vector Machines (SVM)
-Neural Networks
-Evaluation
-Models are evaluated using metrics such as accuracy, precision, recall, and AUC-ROC curves.
+<br>
+<br>
+**Evaluation**
+<br>
+Models are evaluated using metrics such as accuracy, precision, recall.
